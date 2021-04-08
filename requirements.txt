@@ -1,0 +1,5 @@
+1. Python version>=3.8
+2. Dependencies :
+    2.1. Pandas 1.2.3
+    2.2. Openpyxl 3.0.7
+    2.3. Tkinter 
